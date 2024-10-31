@@ -1,0 +1,1 @@
+Code for scraping https://www.liffe.si/sl/ to get the movies and scrape the ratings from https://www.imdb.com/
